@@ -1,0 +1,13 @@
+{
+  "name": "Soft Assistant",
+  "short_name": "Assistant",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fef6f9",
+  "theme_color": "#ffcad4",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }]
+}
